@@ -1,0 +1,58 @@
+[{
+        "Title": "Why we use Attribute style ?",
+        "answer_1": "For make action of element",
+        "answer_2": "For make design of element",
+        "answer_3": "For get value of element",
+        "answer_4": "For set value of element",
+        "right_answer": "For make design of element"
+    },
+    {
+        "Title": "Why we use element <br> ?",
+        "answer_1": "To add BreakLine",
+        "answer_2": "Make bold text",
+        "answer_3": "Make Horziontal line",
+        "answer_4": "Anthor answer",
+        "right_answer": "To add BreakLine"
+    },
+    {
+        "Title":"Why we use element <hr> ?",
+        "answer_1": "To add BreakLine",
+        "answer_2": "Make bold text",
+        "answer_3": "Make Horziontal line",
+        "answer_4": "Anthor answer",
+        "right_answer":"Make Horziontal line"
+    },
+    {
+        "Title":"Why we use element <table> ?",
+        "answer_1":"To add table",
+        "answer_2":"To add head table",
+        "answer_3":"To add row table",
+        "answer_4": "Anthor answer",
+        "right_answer":"To add table"
+    },
+    {
+        "Title":"Why we use mailto in herf  ?",
+        "answer_1":"For add link in link",
+        "answer_2":"For add  number phone in link",
+        "answer_3":"For add E-mail in link",
+        "answer_4":"For go to anthor tab",
+        "right_answer":"For add E-mail in link"
+    }
+    ,
+    {
+        "Title":"Why we use Target with value _blank ?",
+        "answer_1":"For add underline to element",
+        "answer_2":"For Close page after click",
+        "answer_3":"For go to anthor tab after click",
+        "answer_4":"For remove underline to element",
+        "right_answer":"For go to anthor tab after click"
+    }  ,
+    {
+        "Title":"whta's different between <div> and <span> ?",
+        "answer_1":"Doesn't has same style in font-family",
+        "answer_2":"<span> has breakLine and <div> not",
+        "answer_3":"<span> can put value and <div> not",
+        "answer_4":"<div> has breakLine and <span> not",
+        "right_answer":"<div> has breakLine and <span> not"
+    }
+]

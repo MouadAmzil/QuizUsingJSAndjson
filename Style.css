@@ -1,0 +1,149 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, "Geneva", Verdana, sans-serif;
+}
+
+.Quiz {
+    margin: 10px auto;
+    width: 600px;
+    background-color: #f8f8f8;
+    padding: 20px;
+
+}
+
+.Question {
+    padding: 10px;
+    background-color: #fff;
+    font-size: 2em;
+    text-transform: capitalize;
+    color: rgb(57, 57, 240);
+}
+
+.info {
+    display: flex;
+
+}
+
+.catigorie {
+    padding: 5px;
+    float: left;
+    width: 50%;
+
+}
+
+.catigorie span,
+.QuertionCount span {
+    color: #5e17bb;
+    font-weight: 700;
+}
+
+.QuertionCount {
+    padding: 5px;
+    float: inline-end;
+}
+
+.AllAnswer {
+    width: 90%;
+    margin-left: 5%;
+    padding: 10px;
+    font-size: 1.5em;
+    background-color: #fff;
+}
+
+.AllAnswer .Answer {
+    background-color: #dfdfdf;
+    padding: 10px;
+}
+
+.AllAnswer .Answer input[type="radio"]:checked+label {
+    color: rgb(57, 57, 240);
+}
+
+.AllAnswer .Answer label {
+    cursor: pointer;
+    font-weight: 600;
+    padding-left: 10px;
+    text-transform: capitalize;
+    color: #555;
+}
+
+.submit-button {
+    padding: 15px 10px;
+    font-weight: 600;
+    font-size: 1.3em;
+    color: #ffffff;
+    background-color: #a764fffd;
+    border: none;
+    cursor: pointer;
+    width: 90%;
+    margin: 5%;
+}
+.spans{
+    flex:1;
+    display: flex;
+    width: 90%;
+    margin-left: 5%;
+    padding: 10px;
+    background-color: #ffffff;
+}
+.spans span{
+   width: 20px;
+   height: 20px;
+   background-color: #dfdfdf;
+   margin-right: 20px;
+   border-radius: 50%;
+}
+.spans span.on{
+    background-color: #5e17bb;
+}
+.time{
+    margin: 0;
+    float: right;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+div {
+    margin: 6px;
+}
